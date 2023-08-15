@@ -1,0 +1,10 @@
+C:\Users\nguyenquocdat.CAVN\Desktop\cá nhân\Learn\LinQ\LinQLearn\List\bin\Debug\List.exe.config
+C:\Users\nguyenquocdat.CAVN\Desktop\cá nhân\Learn\LinQ\LinQLearn\List\bin\Debug\List.exe
+C:\Users\nguyenquocdat.CAVN\Desktop\cá nhân\Learn\LinQ\LinQLearn\List\bin\Debug\List.pdb
+C:\Users\nguyenquocdat.CAVN\Desktop\cá nhân\Learn\LinQ\LinQLearn\List\obj\Debug\List.csproj.AssemblyReference.cache
+C:\Users\nguyenquocdat.CAVN\Desktop\cá nhân\Learn\LinQ\LinQLearn\List\obj\Debug\List.Form1.resources
+C:\Users\nguyenquocdat.CAVN\Desktop\cá nhân\Learn\LinQ\LinQLearn\List\obj\Debug\List.Properties.Resources.resources
+C:\Users\nguyenquocdat.CAVN\Desktop\cá nhân\Learn\LinQ\LinQLearn\List\obj\Debug\List.csproj.GenerateResource.cache
+C:\Users\nguyenquocdat.CAVN\Desktop\cá nhân\Learn\LinQ\LinQLearn\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+C:\Users\nguyenquocdat.CAVN\Desktop\cá nhân\Learn\LinQ\LinQLearn\List\obj\Debug\List.exe
+C:\Users\nguyenquocdat.CAVN\Desktop\cá nhân\Learn\LinQ\LinQLearn\List\obj\Debug\List.pdb
